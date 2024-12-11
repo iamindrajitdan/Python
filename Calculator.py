@@ -1,3 +1,4 @@
+# Function for choosing
 def calculator():
     print("Welcome to the Basic Calculator!")
     print("Select an operation:")
